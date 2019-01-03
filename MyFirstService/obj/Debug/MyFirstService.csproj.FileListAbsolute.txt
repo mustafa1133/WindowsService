@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\Users\Admin\Desktop\C#_Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
